@@ -1,5 +1,5 @@
 Bom dia pessoal.
-
+é uma linha da branch master;
 Segunda alteração no arquivo.
 
 adicionado linha
